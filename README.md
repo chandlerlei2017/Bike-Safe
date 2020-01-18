@@ -13,3 +13,4 @@ Source for the project can be found in ```LED_BLINKER/blink.c```
 
 #### Demo
 
+![Demo](demo.gif)
